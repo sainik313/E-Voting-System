@@ -5,9 +5,8 @@ The specific objectives of the project include:
 	->Implementing an automated/Smart voting system.
 	->Validating the system to ensure that only legible voters are allowed to vote.
 	->Terminate fake voting.
-	
  Following tools and languages have been used while creating this software:
-->Notepad++(for writing code)
+	->Notepad++(for writing code)
 	->CMD(for compiling)
 	->JAVA SWING, AWT(for designing GUI)
 	->JAVA
